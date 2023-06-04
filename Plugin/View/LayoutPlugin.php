@@ -35,6 +35,8 @@ class LayoutPlugin
 
     /** @var Structure $structure */
     private $structure;
+    
+    private $hintConfig;
 
     /**
      * @param DirectoryList $directoryList
