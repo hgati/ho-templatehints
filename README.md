@@ -1,4 +1,5 @@
 # H&O Magento 2 Advanced Template Hints module
+## Adding php 8.2 compatibility...
 
 ![Overview](docs/total-workings.gif)
 
