@@ -134,7 +134,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
                 console.log(
                     `%c${pathType}`,
                     "font-weight:bold",
-                    `http://localhost:63342/api/file/${string}`
+                    `${string}`
                 );
             });
 
