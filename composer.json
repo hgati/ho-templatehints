@@ -1,5 +1,5 @@
 {
-  "name": "hgati/magento2-templatehints",
+  "name": "hgati/ho-templatehints",
   "replace": {
     "ho-nl/magento2-templatehints": "self.version"
   },
